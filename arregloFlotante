@@ -1,0 +1,11 @@
+/*Almacenar 6 numeros flotantes*/
+#include<stdio.h>
+
+int main(int argc, char const *argv[])
+{
+    float number{6};
+
+    numbers {0} = 12;
+
+    return 0;
+}
